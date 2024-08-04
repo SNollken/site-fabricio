@@ -1,2 +1,2 @@
 # site-fabricio
-Practice on making a good-looking website for local bussiness
+This site is a practice on making a good-looking website for a local bussiness :>
